@@ -3,14 +3,14 @@
     xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="com.megster.cordova.ble"
-    version="1.1.0.1">
+    version="1.1.0.2">
 
     <name>BLE</name>
     <description>Bluetooth Low Energy (BLE) Central Plugin</description>
     <license>Apache 2.0</license>
     <keywords>bluetooth, BLE, bluetooth low energy, bluetooth smart</keywords>
 
-    <repo>https://github.com/don/cordova-plugin-ble-central.git</repo>
+    <repo>https://github.com/Telerik-Verified-Plugins/Bluetooth-Low-Energy.git</repo>
     <issue>https://github.com/don/cordova-plugin-ble-central/issues</issue>
 
     <dependency id="cordova-plugin-compat" version="^1.0.0" />
